@@ -1,7 +1,7 @@
 package main
 
 import (
-	library "./_proto/example"
+	library "github.com/UttakarshTikku/Vue-GRPC/_proto/example"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc"
